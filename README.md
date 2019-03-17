@@ -13,7 +13,7 @@ Gra w za Dużo za Mało prowadzona na zajęciach
  
  orfjpfjfjkfdl;fef kod 'Console.Write()' dfjhdfjhdkf
  
- ;;;csharp
+ '''csharp
  int x=3;
  int y=9538;
  
